@@ -56,7 +56,7 @@
 			
 		},
 		{
-			"id": 6,
+			"id": 7,
 			"type_food": "appetizer",
 			"food_name": "Grilled Elote Flatbread",
 			"food_desc": "Flatbread that is grilled but with ELOTE!! The word “elote” means “corn cob” in Spanish, and Mexican Elote is grilled corn on the cob slathered in a mayo cream sauce and garnished",
@@ -65,7 +65,7 @@
 			
 		},
 		{
-			"id": 7,
+			"id": 8,
 			"type_food": "appetizer",
 			"food_name": "Ranchy Mushrooms",
 			"food_desc": "Grilled and glazed mushrooms with homemade ranch",
@@ -74,7 +74,7 @@
 			
 		},
 		{
-			"id": 8,
+			"id": 9,
 			"type_food": "appetizer",
 			"food_name": "Almond Bacon Cheese Crostini",
 			"food_desc": "Sliced and toasted from a smaller, round, finer-textured bread, more like a white bread baguette slapped with bacon, Wisconsin imported cheese, and Washington raised almonds",
